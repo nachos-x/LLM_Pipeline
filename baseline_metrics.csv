@@ -1,0 +1,3 @@
+model,accuracy,inference_time_s,emissions_kg
+quantized_distilbert,0.532,2.4192147254943848,3.211813970577502e-05
+non_quantized_distilbert,0.912,1.96,0.0
